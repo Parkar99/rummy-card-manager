@@ -1,0 +1,11 @@
+/home/nabeel/Dev/rummy-unity/New/obj/Debug/netcoreapp3.1/New.csprojAssemblyReference.cache
+/home/nabeel/Dev/rummy-unity/New/obj/Debug/netcoreapp3.1/New.AssemblyInfoInputs.cache
+/home/nabeel/Dev/rummy-unity/New/obj/Debug/netcoreapp3.1/New.AssemblyInfo.cs
+/home/nabeel/Dev/rummy-unity/New/bin/Debug/netcoreapp3.1/New
+/home/nabeel/Dev/rummy-unity/New/bin/Debug/netcoreapp3.1/New.deps.json
+/home/nabeel/Dev/rummy-unity/New/bin/Debug/netcoreapp3.1/New.runtimeconfig.json
+/home/nabeel/Dev/rummy-unity/New/bin/Debug/netcoreapp3.1/New.runtimeconfig.dev.json
+/home/nabeel/Dev/rummy-unity/New/bin/Debug/netcoreapp3.1/New.dll
+/home/nabeel/Dev/rummy-unity/New/bin/Debug/netcoreapp3.1/New.pdb
+/home/nabeel/Dev/rummy-unity/New/obj/Debug/netcoreapp3.1/New.dll
+/home/nabeel/Dev/rummy-unity/New/obj/Debug/netcoreapp3.1/New.pdb
