@@ -8,7 +8,7 @@ class Program
         // List<Card> deck = GenerateDeck();
         Deck deck = new Deck();
         Hand hand = new Hand(ref deck, 13);
-        hand.SortHand();
+        // hand.SortHand();
 
         foreach (Card card in deck.Cards)
             Console.WriteLine(card.Name);
@@ -16,14 +16,17 @@ class Program
         Console.WriteLine("Cards: " + deck.Cards.Count);
         Console.WriteLine();
 
-        foreach (Card card in hand.Cards)
-            Console.WriteLine(card.Name);
+        // foreach (Card card in hand.Cards)
+        //     Console.WriteLine(card.Name);
 
         Console.WriteLine();
         int count = 1;
 
-        foreach (Deck d in hand.Groups)
+        foreach (Group d in hand.Groups) {
             foreach (Card c in d.Cards)
                 Console.WriteLine(count++ + " " + c.Name);
+
+        Console.WriteLine();
+        }
     }
 }
